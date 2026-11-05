@@ -24,7 +24,7 @@ Windows 10 (version 2004 or newer).
 
 ## Resources
 
-- [Guide.html](Guide.html): full guide to capture, library, export, and settings
+- [Guide.html]: full guide to capture, library, export, and settings
 - `ZwScreenshot-Setup.msi`: installer
 - `ZwScreenshot.zip`: portable download
 - Settings are stored in `%LOCALAPPDATA%\BetterScreenshot`
